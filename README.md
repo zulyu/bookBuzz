@@ -1,7 +1,7 @@
 # bookBuzz
 This is bookBuzz, a social media IOS application for readers!
 
-Details:
+## Details:
 
 Language: Swift
 
