@@ -1,10 +1,9 @@
-# bookBuzz
-This is bookBuzz, a social media IOS application for readers!
+## Project Description 
 
-## Details:
+### Written by: Zuleyka @zulyu
+### Project Background Information
+This project was developed to serve as a social media application for readers who are looking to find new recommendations and other book lovers!
 
-Language: Swift
-
-IDEs: XCode and VScode 
-
-Advanced Features: Gestures and API integration
+## Technologies 
+This project was coded in Swift
+Coded Xcode and VSCode
